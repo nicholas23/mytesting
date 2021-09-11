@@ -10,4 +10,6 @@ public class MytestingApplication {
 		SpringApplication.run(MytestingApplication.class, args);
 	}
 
+	
+
 }
